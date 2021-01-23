@@ -17,7 +17,8 @@ Dengan frekuensi uplinks-nya menggunakan frekuensi 890–915 MHz, sedangkan frek
 
 ### Sejarah GSM
 Jaringan GSM diciptakan pada tahun 1982 dari pertemuan antara para ahli komunikasi tingkat tinggi pada Konferensi European Conference of Postal and Telecommunications Administrations. Awalnya pertemuan ini memiliki tujuan untuk mengatasi infrastruktur seluler di Eropa, tapi kemudian meluas ke negara lainnya dengan cepat. Banyak standar dan prosedur operasional jaringan GSM diterbitkan dalam jurnal tahunan. Pakar industri tersebut membantu merampingkan protokol komunikasi dari satu sistem ke sistem lainnya.
-Arsitektur jaringan
+Arsitektur jaringan.
+
 Secara umum, network element dalam arsitektur jaringan GSM dapat dibagi menjadi:
 1.	Mobile Station (MS)
 2.	Base Station Sub-system (BSS)
@@ -107,11 +108,14 @@ Satelit sendiri secara sederhana dibagi menjadi 2 jenis yaitu:
 Satelit buatan manusia pertama adalah Sputnik 1, diluncurkan oleh Soviet pada tanggal 4 Oktober 1957, dan memulai Program Sputnik Rusia, dengan Sergei Korolev sebagai kepala disein dan Kerim Kerimov sebagai asistentnya. Peluncuran ini memicu lomba ruang angkasa (space race) antara Soviet dan Amerika. Sputnik 1 membantu mengidentifikasi kepadatan lapisan atas atmosfer dengan jalan mengukur  perubahan orbitnya dan memberikan data dari distribusi signal radio pada lapisan ionosphere.
 Karena badan satelit ini diisi dengan nitrogen bertekanan tinggi, Sputnik 1 juga memberi kesempatan pertama dalam pendeteksian meteorit, karena hilangnya tekanan dalam disebabkan oleh penetrasi meteroid bisa dilihat melalui data suhu yang dikirimkannya ke bumi. Sputnik 2 diluncurkan pada tanggal 3 November 1957 dan membawa awak mahluk hidup pertama ke dalam orbit, seekor anjing bernama Laika. Pada bulan Mei, 1946, Project Rand mengeluarkan desain preliminari untuk experimen wahana angkasa untuk mengedarai dunia, yang menyatakan bahwa, “sebuah kendaraan satelit yang berisi instrumentasi yang tepat bisa diharapkan menjadi alat ilmu yang canggih untuk abad ke dua puluh”.
 Amerika sudah memikirkan untuk meluncurkan satelit pengorbit sejak 1946 dibawah Kantor Aeronotis angkatan Laut Amerika (Bureau of Aeronautics of the United States Navy). Project RAND milik Angkatan Udara Amerika akhirnya mengeluarkan laporan diatas, tetapi tidak mengutarakan bahwa satelit memiliki potensi sebagai senjata militer. Tetapi, mereka menganggapnya sebagai alat ilmu, politik, dan propaganda. Pada tahun 1954, Sekertariat Pertahanan Amerika menyatakan, “Saya tidak mengetahui adanya satupun program satelit Amerika.” Pada tanggal 29 Juli 1955, Gedung Putih mencanangkan bahwa Amerika Serikat akan meluncurkan satelit pada musim semi 1958. Hal ini kemudian diketahui sebagai Project Vanguard. Pada tanggal 31 Juli, Soviets mengumumkan bahwa mereka akan meluncurkan satelit pada musim gugur 1957. mengorbit bumi adalah Station Angkasa Interasional (International Space Station).
+
 ![image](sejarah_Satelit.jpg)
 
 ## GPS (Global Positioning System)
 GPS adalah nama yang umumnya. Akan tetapi, GPS atau Global Positioning System sebenarnya adalah sistem yang memungkinkan kita menentukan lokasi secara akurat menggunakan satelit, yang diciptakan oleh Amerika Serikat. Rusia (GLONASS) dan China (BeiDou) pun memiliki solusi penentu lokasi yang serupa.Untuk dapat mengetahui lokasinya dengan
 menggunakan satelit (GPS/GLONASS/BeiDou), smartphone sebenarnya tidak membutuhkan paket data. Mengapa demikian? Karena, yang dilakukan oleh sistem navigasi di dalam smartphone Anda adalah “mendengar” sinyal dari satelit, bukan melakukan transaksi data.
+![image](GPS.jpeg)
+
 ### Fungsi GPS
 untuk menentukan letak di permukaan bumi dengan bantuan sinkronisasi sinyal satelit yang mengirimkan sinyal gelombang mikro ke Bumi , sehingga dapat digunakan untuk menentukan kecepatan, arah, letak, dan waktu.
 
@@ -136,6 +140,7 @@ Transit, satelit sistem navigasi pertama yang digunakan oleh Angkatan Laut AS su
 
 ## WIMAX
 WiMAX adalah singkatan dari Worldwide Interoperability for Microwave Access, merupakan teknologi akses nirkabel pita lebar (broadband wireless access atau disingkat BWA) yang memiliki kecepatan akses yang tinggi dengan jangkauan yang luas.Pada jaringan selular juga telah dikembangkan teknologi yang dapat Pada jaringan selular juga telah dikembangkan teknologi yang dapat Mngalirkan data yang cepat dengan jaringan suara seperti GPRS,EDGE, WCDMA, dan HSDPA.
+![image](wimax.gif)
 
 ### Perbedaan Standar Wifi dan Wimax
 WiMAX merupakan penggabungan antara 2 standard:
@@ -146,3 +151,54 @@ WiMAX merupakan penggabungan antara 2 standard:
 1.  WiIMAX menggunakan akses wireless broadband hingga 50 km untuk stasiun tetap,dan 5-15 km untuk stasiun bergerak.
 2.  Sebagai perbandingan WLAN (WiFi) standart 802.11 hanya menjangkau sekitar 30-100 meter.
 3.  Mudahnya, cara kerja WiMAX mirip dengan WiFi. Tetapi WiMAX mempunyai  kecepatan yang lebih tinggi, jangkauan yang lebih luas, dan pengguna yg lebih banyak. WiMAX ini juga berpotensi untuk mengatasi masalah akses internet di desa-desa, yang belum punya akses internet karena tidak terjangkau kabel telepon.
+
+## Perbandingan WiMax dan WIFI
+WiMax atau Worldwide Interoperability for Microwave Access adalah pengembangan dari teknologi Wifi yang sudah sering kita gunakan. WiMax menggunakan standart IEEE 802.16 -2004 untuk fixed wireless broadband dan IEEE 802.16e untuk portable/mobile wireless broadband. WiMAX Forum menetapkan 2 band frekuensi utama pada certication profile untuk Fixed WiMAX (band 3.5 GHz dan 5.8 GHz), sementara untuk Mobile WiMAX ditetapkan 4 band frekuensi pada system profile release-1, yaitu band 2.3 GHz, 2.5 GHz, 3.3 GHz dan 3.5 GHz. Untuk kecepatan WiMax telah mendukung sampai 70 Mbits/s tidak berbeda jauh dengan wifi biasa yang mencapai 54 Mbits/s tetapi yang membedakannya dari segi jangkauan, WiMax ini mampu menjangkau hingga radius 50 Km.Perusahaan yang mengusung WiMaxsebagai teknologi pilihan dalam penyuguhan 4G yaitu ClearWire, Google, Sprint dan Intel. Meskipun secara teori WiMax kalah dalam hal kecepatan dibandingkan dengan LTE.
+![image](wifi_wimax.jpg)
+
+## BERBAGAI APLIKASI WiMAX
+#### aplikasi Backhaul
+Untuk aplikasi ini, WiMAX dapat dimanfaatkan untuk backhaul WiMAX itu sendiri, backhaul Hotspot dan backhaul teknologi lain. Dalam aplikasi ini agar dapat dipakai secara maksimal maka biasanya dilakukan konfigurasi P2P.
+1.  Backhaul WiMAX : Aplikasinya mirip dengan fungsi BTS sebagai repeater dalam sistem selular. Bertujuan untuk memperluas jangkauan dari WiMAX.
+2.  Backhaul Hotspot : Saat ini sebagian besar jaringan hotspot banyak menggunakan saluran ASDL sebagai backhaulnya.Dengan keterbatasan jaringan kabel, maka WiMAX juga bisa dimanfaatkan sebagai backhaul hotspot.
+3.  Backhaul Teknologi Lain : WiMAX dapat digunakan sebagai backhaul teknologi lain. Seperti backhaul seluler. Dengan kemampuan data rate di atas 2 Mbps maka sangat layak bila WiMAX digunakan sebagai backhaul dari sistem seluler.
+
+### MANFAAT & KEUNTUNGAN
+1.  WiMAX dapat melayani pelanggannya dengan area yang lebih luas dan tingkat kompatibilitas lebih tinggi.
+2.  Dapat melayani baik para pengguna dengan antena tetap (fixed wireless) misalnya di gedung-gedung perkantoran, rumah tinggal, toko-toko, dan sebagainya, maupun yang sering berpindah-pindah tempat atau perangkat mobile lainnya.
+
+## Antena
+Antena adalah suatu alat listrik yang dapat mengubah sinyal listrik menjadi gelombang elektromagnetik kemudian memancarkannya ke ruang bebas atau sebaliknya yaitu menangkap gelombang elektromagnetik dari ruang bebas dan mengubahnya menjadi sinyal listrik. Antena juga tergolong sebagai Transduser karena dapat mengubah suatu bentuk energi ke bentuk energi lainnya.
+![image](antena.jpg)
+Antena merupakan salah satu komponen atau elemen terpenting dalam suatu rangkaian dan perangkat Elektronika yang berkaitan dengan Frekuensi Radio ataupun gelombang Elektromagnetik. Perangkat Elektronika tersebut diantaranya adalah Perangkat Komunikasi yang sifatnya tanpa kabel atau wireless seperti Radio, Televisi, Radar, Ponsel, Wi-Fi, GPS dan juga Bluetooth. Antena diperlukan baik bagi perangkat yang menerima sinyal maupun perangkat yang memancarkan sinyal. Dalam bahasa Inggris, Antena disebut juga dengan Aerial.
+
+Antena adalah konduktor elektrik yang berfungsi untuk :
+1.  Transmisi (Transmission) : Meradiasikan energi elektromagnetik ke ruang bebas/space.
+2.  Penerimaan (Reception) : Mengumpulkan/menerima energi elektromagnetik dari ruang bebas/space.
+
+### Pola Radiasi Antena
+Pola radiasi antena adalah diagram yang menggambarkan arah dan besarnya radiasi antena. Pada dasarnya pola radiasi antena mempunyai bentuk seperti bola, untuk memudahkan dalam perhitungan dan penggambaran maka disusun dalam dua pola radiasi horizontal dan pola radiasi vertikal.Pola radiasi antenna dapat digambarkan dengan sebuah grafik , Grafik menggambarkan kecenderungan radiasi antena pada arah/tempat tertentu.
+![image](pola_antena.jfif)
+
+### Beam width (or half-power beam width)
+Beam width adalah area di mana sebagian besar daya dipancarkan, yang merupakan daya puncak. Lebar sinar setengah daya adalah sudut di mana daya relatif lebih dari 50% dari daya puncak, dalam bidang antena yang diradiasikan secara efektif.
+![image](HPBW.jpg) ![image](10dB.jpg)
+
+## Jenis-Jenis Antenna
+### Antena Omni
+Antena Omni banyak digunakan sebagai pemancar karena cakupannya luas. Antena ini berbentuk seperti tongkat. Omni memiliki polarisasi ke segala arah atau 360 derajat dan termasuk dalam jaringan Point to Multi Point. Antena ini memiliki frekuensi 2,4 Ghz dan 5,8 Ghz serta memiliki gain 3-13 dBi. Antena ini yang paling sering digunakan sebagai hotspot.
+### Antena Yagi
+Antena Yagi berbentuk seperti tulang ikan. Antena ini hanya memiliki polarisasi searah sehingga harus diarahkan ke antena pemancar di tempat lain dan lebih cocok digunakan sebagai mode client. Antena ini memiliki frekuensi 2,4 Ghz dan 5,8 Ghz serta memiliki gain hingga 16 dBi. Antena Yagi termasuk dalam jaringan Point to Point.
+### Antena Sectoral
+Antena Sectoral berbentuk seperti tabung. Antena ini pada dasarnya hampir mirip dengan antena omni, perbedaannya yaitu terletak pada bentuk dan arah pancarannya. Antena omni bisa memancarkan 360 dearajat, sedangkan antena sectoral hanya bisa sampai 180 derajat. Antena Sectoral memiliki gain 10-19 dBi. Antena ini termasuk dalam jaringan Point to Point maupun Point to Multi Point.
+### Antena Parabolik
+Antena Parabolik memiliki gain 18-28 dBi. Antena ini hampir mirip dengan antena grid, hanya saja jangkauannya lebih fokus. Jarak jangkauan antena grid kalah unggul dibanding antena parabolik ini. Antena parabolik termasuk dalam jaringan Point to Point jarak jauh.
+### Antena Wajan Bolik
+Antena wajan bolik berbentuk seperti wajan. Antena ini hampir mirip dengan antena parabolik, bedanya terletak pada reflektor parabolic-disc yang menggunakan wajan. Antena wajan bolik digunakan untuk memperkuat jangkauan usb wifi yang sudah tidak kuat menangkap sinyal, jangkauannya tidak begitu jauh hanya berkisar ratusan meter saja.
+### Antena PVC
+Antena ini terbuat dari pipa PVC yang dilapisi aluminium foil. Keunggulannya adalah tahan terhadap berbagai cuaca, mudah dipasang dan tidak akan berkarat. Akan tetapi, antena ini hanya bisa mencakup sinyal dalam jarak dekat, 200-300 m saja.
+### Antena 8 Quad
+Pada dasarnya antena ini merupakan bagian dari antena sectoral. Sebab, pola radiasinya masih dalam satu arah jika dibuat sudut arah yang lebar. Biasanya, antena ini sering digunakan untuk antena access point saat klien berada di sebuah area.
+
+## Kesimpulan
+Jaringan komputer merupakan sebuah sistem yang terdiri atas komputer-komputer yang didesain untuk dapat berbagi sumber daya (printer, CPU), berkomunikasi dan dapat mengakses informasi. Jaringan komputer dibangun untuk mendukung komunikasi sebuah komonitas pada range atau jarak tertentu. Dalam membentuk jaringan komputer dibutuhkan beberapa perangkat jaringan komputer yaitu: hub, switch, router, bridge, repeator dan modem.
