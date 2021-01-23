@@ -143,6 +143,7 @@ Transit, satelit sistem navigasi pertama yang digunakan oleh Angkatan Laut AS su
 
 ## WIMAX
 WiMAX adalah singkatan dari Worldwide Interoperability for Microwave Access, merupakan teknologi akses nirkabel pita lebar (broadband wireless access atau disingkat BWA) yang memiliki kecepatan akses yang tinggi dengan jangkauan yang luas.Pada jaringan selular juga telah dikembangkan teknologi yang dapat Pada jaringan selular juga telah dikembangkan teknologi yang dapat Mngalirkan data yang cepat dengan jaringan suara seperti GPRS,EDGE, WCDMA, dan HSDPA.
+
 ![image](wimax.gif)
 
 ### Perbedaan Standar Wifi dan Wimax
@@ -173,6 +174,7 @@ Untuk aplikasi ini, WiMAX dapat dimanfaatkan untuk backhaul WiMAX itu sendiri, b
 ## Antena
 Antena adalah suatu alat listrik yang dapat mengubah sinyal listrik menjadi gelombang elektromagnetik kemudian memancarkannya ke ruang bebas atau sebaliknya yaitu menangkap gelombang elektromagnetik dari ruang bebas dan mengubahnya menjadi sinyal listrik. Antena juga tergolong sebagai Transduser karena dapat mengubah suatu bentuk energi ke bentuk energi lainnya.
 ![image](antena.jpg)
+
 Antena merupakan salah satu komponen atau elemen terpenting dalam suatu rangkaian dan perangkat Elektronika yang berkaitan dengan Frekuensi Radio ataupun gelombang Elektromagnetik. Perangkat Elektronika tersebut diantaranya adalah Perangkat Komunikasi yang sifatnya tanpa kabel atau wireless seperti Radio, Televisi, Radar, Ponsel, Wi-Fi, GPS dan juga Bluetooth. Antena diperlukan baik bagi perangkat yang menerima sinyal maupun perangkat yang memancarkan sinyal. Dalam bahasa Inggris, Antena disebut juga dengan Aerial.
 
 Antena adalah konduktor elektrik yang berfungsi untuk :
@@ -181,6 +183,7 @@ Antena adalah konduktor elektrik yang berfungsi untuk :
 
 ### Pola Radiasi Antena
 Pola radiasi antena adalah diagram yang menggambarkan arah dan besarnya radiasi antena. Pada dasarnya pola radiasi antena mempunyai bentuk seperti bola, untuk memudahkan dalam perhitungan dan penggambaran maka disusun dalam dua pola radiasi horizontal dan pola radiasi vertikal.Pola radiasi antenna dapat digambarkan dengan sebuah grafik , Grafik menggambarkan kecenderungan radiasi antena pada arah/tempat tertentu.
+
 ![image](pola_antena.jfif)
 
 ### Beam width (or half-power beam width)
