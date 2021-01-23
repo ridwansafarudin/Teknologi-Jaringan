@@ -11,7 +11,9 @@ jaringan seluler adalah jaringan komunikasi yang tautan terakhirnya adalah nirka
   
 ## GSM (Global System for Mobile Communication)
 Global System for Mobile Communication (GSM) merupakan sebuah teknologi komunikasi selular yang bersifat digital. Teknologi GSM banyak diterapkan pada mobile communication, khususnya handphone. Teknologi inimemanfaatkan gelombang mikro dan pengiriman sinyal yang dibagi berdasarkan waktu, sehingga sinyal informasi yang dikirim akan sampai pada tujuan. GSM dijadikan standar global untuk komunikasi selular sekaligus sebagai teknologi selular yang paling banyak digunakan orang di seluruh dunia. Di Eropa, awalnya GSM di desain beroperasi pada frekuensi 900 Mhz.
+
 ![image](GSM.png)
+
 Dengan frekuensi uplinks-nya menggunakan frekuensi 890–915 MHz, sedangkan frekuensi downlinksnya menggunakan frekuensi 935–960 MHz. Bandwith yang digunakan adalah 25 Mhz (915–80 = 960–35 = 25 Mhz) dan lebar kanal sebesar 200 Khz. Dari keduanya, maka didapatkan 125 kanal, dimana 124 kanal digunakan untuk suara dan satu kanal untuk sinyal. Pada perkembangannya, jumlah kanal 124 tidak mencukupi untuk memenuhi kebutuhan dikarenakan pesatnya pertumbuhan jumlah pengguna. Untuk memenuhi kebutuhan kanal yang lebih banyak, maka regulator GSM di Eropa menggunakan tambahan frekuensi untuk GSM pada band frekuensi di range 1800 Mhz dengan frekuensi 1710-1785 Mhz sebagai frekuensi uplinks dan frekuensi 1805-1880 Mhz sebagai frekuensi downlinks. GSM dengan frekuensinya yang baru ini kemudian dikenal dengan sebutan GSM 1800, dimana tersedia bandwidth sebesar 75 Mhz (1880-1805 = 1785–1710 = 75 Mhz). Dengan lebar kanal yang tetap sama yaitu 200 Khz sama, pada saat GSM pada frekuensi 900 Mhz, maka pada GSM 1800 ini akan tersedia sebanyak 375 kanal. Di Eropa, standar-standar GSM kemudian juga digunakan untuk komunikasi railway, yang kemudian dikenal dengan nama GSM-R.
 
 
