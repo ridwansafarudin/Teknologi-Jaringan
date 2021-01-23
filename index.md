@@ -56,17 +56,18 @@ teknologi CDMA pertama kali digunakan pada saat meletusnya Perang Dunia II. Tekn
 Teknologi CDMA pada awalnya dipergunakan dalam komunikasi radio militer Amerika Serikat (AS), mulai tahun 1990 patennya diberikan kepada Qualcomm, Inc. dan dijadikan sebagai standar seluler digital di AS sejak tahun 1993. Oleh karena itu tidak heran jika teknologi ini sangat aman karena tidak dapat digandakan (dikloning). Sehingga teknologi ini sangat cocok bagi kegunaan layanan telepon banking, seperti transfer, cek saldo, dll.
 Mengenal CDMA
 CDMA (code division multiple access) adalah teknologi akses jamak dimana masing-masing user menggunakan code yang unik dalam mengakses kanal yang terdapat dalam sistem. Pada CDMA, sinyal informasi pada transmitter decoding dan disebar dengan bandwidth sebesar 1.25 MHz (spread spectrum), kemudian pada sisi repeater dilakukan decoding sehingga didapatkan sinyal informasi yang dibutuhkan. CDMA (Code Division Multiple Access) merupakan metoda multiplexing yang paling canggih dan rumit. Seluruh daerah frekuensi digunakan bersama-sama tanpa pembagian kanal. Untuk membedakan antara masing-masing hubungan digunakan sistem pengkodean dengan modulasi frekuensi (pengubahan pola frekuensi pembawa) secara unik untuk masing-masing hubungan. Code Division Multiple Access (CDMA) adalah teknologi berbasis spread spectrum yang mengijinkan banyak user menempati kanal radio yang sama, diterapkan pada system IS-95, J-STD-008, dsb. Sistem komunikasi CDMA ini mempunya spesifikasi sebagai  berikut :
-•	Bandwidth : 1.25 MHz
-•	Frek Uplink : 869 – 894 MHz atau 1930 – 1990 MHz
-•	Free Downlink : 824 – 894 MHz atau 1850 – 1910 MHz
+1.  Bandwidth : 1.25 MHz
+2.  Frek Uplink : 869 – 894 MHz atau 1930 – 1990 MHz
+3.  Free Downlink : 824 – 894 MHz atau 1850 – 1910 MHz
 
 ### Sifat-Sifat CDMA
-•	Kapasitas lebih tinggi
-•	Peningkatan call security
-•	Mereduksi derau dan interfensi lainnya
-•	Efisiensi daya
-•	Fasilitas koordinasi seluruh frekuensi
-•	Integrasi layanan suara,data dan video
+1.  Kapasitas lebih tinggi
+2.  Peningkatan call security
+3.  Mereduksi derau dan interfensi lainnya
+4.  Efisiensi daya
+5.  Fasilitas koordinasi seluruh frekuensi
+6.  Fasilitas koordinasi seluruh frekuensi
+
 
 ## Perbedaan GSM dan CDMA
 
