@@ -1,6 +1,6 @@
 ## Jaringan Seluler
 jaringan seluler adalah jaringan komunikasi yang tautan terakhirnya adalah nirkabel. Jaringan didistribusikan di atas area daratan yang disebut "sel", masing-masing dilayani oleh setidaknya satu transceiver lokasi tetap, tetapi lebih normal, tiga lokasi sel atau stasiun transceiver dasar.
-![image]
+![image](seluler.png)
 
 ### Tipe tipe jaringan seluler
 1.  1G mengacu pada generasi pertama dari teknologi seluler nirkabel (telekomunikasi seluler). Ini adalah standar telekomunikasi analog yang diperkenalkan pada 1980-an. 1G pada     umumnya adalah teknologi analog dan ponsel yang memiliki daya tahan baterai yang terbatas dan kualitas suara tanpa keamanan yang besar, dan kadang-kadang akan mengalami         panggilan yang terputus (dropped calls). Kecepatan maksimal dari 1G yaitu 2.4 Kbps. Ini adalah standar telekomunikasi analog dan berlanjut hingga digantikan oleh        =       telekomunikasi    digital 2G.
@@ -11,7 +11,7 @@ jaringan seluler adalah jaringan komunikasi yang tautan terakhirnya adalah nirka
   
 ## GSM (Global System for Mobile Communication)
 Global System for Mobile Communication (GSM) merupakan sebuah teknologi komunikasi selular yang bersifat digital. Teknologi GSM banyak diterapkan pada mobile communication, khususnya handphone. Teknologi inimemanfaatkan gelombang mikro dan pengiriman sinyal yang dibagi berdasarkan waktu, sehingga sinyal informasi yang dikirim akan sampai pada tujuan. GSM dijadikan standar global untuk komunikasi selular sekaligus sebagai teknologi selular yang paling banyak digunakan orang di seluruh dunia. Di Eropa, awalnya GSM di desain beroperasi pada frekuensi 900 Mhz.
-![image]
+![image](GSM.png)
 Dengan frekuensi uplinks-nya menggunakan frekuensi 890–915 MHz, sedangkan frekuensi downlinksnya menggunakan frekuensi 935–960 MHz. Bandwith yang digunakan adalah 25 Mhz (915–80 = 960–35 = 25 Mhz) dan lebar kanal sebesar 200 Khz. Dari keduanya, maka didapatkan 125 kanal, dimana 124 kanal digunakan untuk suara dan satu kanal untuk sinyal. Pada perkembangannya, jumlah kanal 124 tidak mencukupi untuk memenuhi kebutuhan dikarenakan pesatnya pertumbuhan jumlah pengguna. Untuk memenuhi kebutuhan kanal yang lebih banyak, maka regulator GSM di Eropa menggunakan tambahan frekuensi untuk GSM pada band frekuensi di range 1800 Mhz dengan frekuensi 1710-1785 Mhz sebagai frekuensi uplinks dan frekuensi 1805-1880 Mhz sebagai frekuensi downlinks. GSM dengan frekuensinya yang baru ini kemudian dikenal dengan sebutan GSM 1800, dimana tersedia bandwidth sebesar 75 Mhz (1880-1805 = 1785–1710 = 75 Mhz). Dengan lebar kanal yang tetap sama yaitu 200 Khz sama, pada saat GSM pada frekuensi 900 Mhz, maka pada GSM 1800 ini akan tersedia sebanyak 375 kanal. Di Eropa, standar-standar GSM kemudian juga digunakan untuk komunikasi railway, yang kemudian dikenal dengan nama GSM-R.
 
 
@@ -46,7 +46,7 @@ Frekuensi pada 3 Operator Terbesar di Indonesia
 
 ## CDMA (Code Division Multiple Access)
 teknologi CDMA pertama kali digunakan pada saat meletusnya Perang Dunia II. Teknologi ini digunakan untuk menyulitkan tentara Jerman dalam menangkap sinyal yang jelas dan lengkap. Dalam perkembangannya, CDMA digunakan dalam banyak sistem komunikasi termasuk pada Global Positioning System (GPS) dan pada sistem satelit OmniTRACS untuk logistik transportasi. CDMA sendiri adalah metode pengaksesan chanel dengan menggunakan banyak frekuensi radio telekomunikasi dan juga merupakan protokol data wireless. CDMA beroperasi pada frekuensi 800 sampai 1900 MHz.
-![image]
+![image](CDMA.jpg)
 
 ### Sejarah CDMA
 Teknologi CDMA pada awalnya dipergunakan dalam komunikasi radio militer Amerika Serikat (AS), mulai tahun 1990 patennya diberikan kepada Qualcomm, Inc. dan dijadikan sebagai standar seluler digital di AS sejak tahun 1993. Oleh karena itu tidak heran jika teknologi ini sangat aman karena tidak dapat digandakan (dikloning). Sehingga teknologi ini sangat cocok bagi kegunaan layanan telepon banking, seperti transfer, cek saldo, dll.
@@ -78,12 +78,12 @@ dikarenakan teknologi CDMA lebih menggunakan kode-kode unik dalam tiap transfer 
 5.  Kelima, adalah perbandingan biaya investasi. Dimana teknolgi CDMA tidak membutuhkan perangkat-perangkat serumit seperti implementasi pada GSM. Artinya jika melihat dari segi finansial, teknologi CDMA akan jauh lebih murah daripada GSM. Buktinya? Biaya percakapan kita melalui CDMA sudah pasti jauh lebih murah bila dibanding dengan percakapan melalui GSM.
 
 6.  Keenam, dengan melihat hal diatas, maka harga untuk iperangkatnya pun lebih sangat jauh berbeda antara GSM dengan CDMA. Perangkat GSM harganya akan jauh lebih tinggi 2-3 kali lipat daripada CDMA. Tentunya ini sangat berkaitan dengan biaya investasi antara ke-2 teknologi tersebut.
-![image]
+![image](CDMA.GSM.jpg)
 
 ## SATELIT
 Kata satelit berasal dari kata latin satelles yang diartikan pelayan, atau seseorang yang mematuhi atau melayani pihak lain. Sedangkan secara ilmiah, satelit adalah suatu benda yan bergerak mengitari benda lain—biasanya lebih besar— dalam jalur yang dapat diprediksi yang disebut orbit, atau singkatnya setiap benda angkasa yang bergerak mengitari sebuah planet membentuk jalur lingkaran atau eliptikal.
 
-![image]
+![image](satelit.jpg)
 
 Satelit sendiri secara sederhana dibagi menjadi 2 jenis yaitu:
 1.  Satelit Alami. Satelit yang memang berasal dari alam, contoh sederhananya adalah bulan yang menjadi satelit alami bagi bumi. Bumi dan planet-planet lain dalam tata surya kita juga menjadi satelit alami dari matahari.
@@ -107,12 +107,12 @@ Satelit sendiri secara sederhana dibagi menjadi 2 jenis yaitu:
 Satelit buatan manusia pertama adalah Sputnik 1, diluncurkan oleh Soviet pada tanggal 4 Oktober 1957, dan memulai Program Sputnik Rusia, dengan Sergei Korolev sebagai kepala disein dan Kerim Kerimov sebagai asistentnya. Peluncuran ini memicu lomba ruang angkasa (space race) antara Soviet dan Amerika. Sputnik 1 membantu mengidentifikasi kepadatan lapisan atas atmosfer dengan jalan mengukur  perubahan orbitnya dan memberikan data dari distribusi signal radio pada lapisan ionosphere.
 Karena badan satelit ini diisi dengan nitrogen bertekanan tinggi, Sputnik 1 juga memberi kesempatan pertama dalam pendeteksian meteorit, karena hilangnya tekanan dalam disebabkan oleh penetrasi meteroid bisa dilihat melalui data suhu yang dikirimkannya ke bumi. Sputnik 2 diluncurkan pada tanggal 3 November 1957 dan membawa awak mahluk hidup pertama ke dalam orbit, seekor anjing bernama Laika. Pada bulan Mei, 1946, Project Rand mengeluarkan desain preliminari untuk experimen wahana angkasa untuk mengedarai dunia, yang menyatakan bahwa, “sebuah kendaraan satelit yang berisi instrumentasi yang tepat bisa diharapkan menjadi alat ilmu yang canggih untuk abad ke dua puluh”.
 Amerika sudah memikirkan untuk meluncurkan satelit pengorbit sejak 1946 dibawah Kantor Aeronotis angkatan Laut Amerika (Bureau of Aeronautics of the United States Navy). Project RAND milik Angkatan Udara Amerika akhirnya mengeluarkan laporan diatas, tetapi tidak mengutarakan bahwa satelit memiliki potensi sebagai senjata militer. Tetapi, mereka menganggapnya sebagai alat ilmu, politik, dan propaganda. Pada tahun 1954, Sekertariat Pertahanan Amerika menyatakan, “Saya tidak mengetahui adanya satupun program satelit Amerika.” Pada tanggal 29 Juli 1955, Gedung Putih mencanangkan bahwa Amerika Serikat akan meluncurkan satelit pada musim semi 1958. Hal ini kemudian diketahui sebagai Project Vanguard. Pada tanggal 31 Juli, Soviets mengumumkan bahwa mereka akan meluncurkan satelit pada musim gugur 1957. mengorbit bumi adalah Station Angkasa Interasional (International Space Station).
-![image]
+![image](sejarah_Satelit.jpg)
 
 ## GPS (Global Positioning System)
 GPS adalah nama yang umumnya. Akan tetapi, GPS atau Global Positioning System sebenarnya adalah sistem yang memungkinkan kita menentukan lokasi secara akurat menggunakan satelit, yang diciptakan oleh Amerika Serikat. Rusia (GLONASS) dan China (BeiDou) pun memiliki solusi penentu lokasi yang serupa.Untuk dapat mengetahui lokasinya dengan
 menggunakan satelit (GPS/GLONASS/BeiDou), smartphone sebenarnya tidak membutuhkan paket data. Mengapa demikian? Karena, yang dilakukan oleh sistem navigasi di dalam smartphone Anda adalah “mendengar” sinyal dari satelit, bukan melakukan transaksi data.
-#### Fungsi GPS
+### Fungsi GPS
 untuk menentukan letak di permukaan bumi dengan bantuan sinkronisasi sinyal satelit yang mengirimkan sinyal gelombang mikro ke Bumi , sehingga dapat digunakan untuk menentukan kecepatan, arah, letak, dan waktu.
 
 ### Jenis GPS dan Kegunaannya
