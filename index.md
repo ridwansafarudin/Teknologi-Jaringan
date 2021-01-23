@@ -49,6 +49,7 @@ Frekuensi pada 3 Operator Terbesar di Indonesia
 
 ## CDMA (Code Division Multiple Access)
 teknologi CDMA pertama kali digunakan pada saat meletusnya Perang Dunia II. Teknologi ini digunakan untuk menyulitkan tentara Jerman dalam menangkap sinyal yang jelas dan lengkap. Dalam perkembangannya, CDMA digunakan dalam banyak sistem komunikasi termasuk pada Global Positioning System (GPS) dan pada sistem satelit OmniTRACS untuk logistik transportasi. CDMA sendiri adalah metode pengaksesan chanel dengan menggunakan banyak frekuensi radio telekomunikasi dan juga merupakan protokol data wireless. CDMA beroperasi pada frekuensi 800 sampai 1900 MHz.
+
 ![image](CDMA.jpg)
 
 ### Sejarah CDMA
